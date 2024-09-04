@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **airwuu/airwuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ✨ hi there! 
+welcome to my github, this is where you can see what i'm up to!
+
+### 🔭 you'll find me working on..
+- 😎 whatever i find cool
+- ❄️ my nixos [dotfiles](https://github.com/airwuu/dots)
+- 💻 python, js, c++
+
