@@ -21,5 +21,5 @@ welcome to my github, this is where you can see what i'm up to!
 ### 🔭 you'll find me working on..
 - 😎 whatever i find cool
 - ❄️ my nixos [dotfiles](https://github.com/airwuu/dots)
-- 💻 python, js, c++, java
+- 💻 python, c++, java, js
 
