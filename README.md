@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 welcome to my github, this is where you can see what i'm up to!
 
 ### 🔭 you'll find me working on..
-- whatever i find cool
-- my nixos [dotfiles](https://github.com/airwuu/dots)
-- learning through doing!
+- personal projects
+- anything public is usually for competitions
 
