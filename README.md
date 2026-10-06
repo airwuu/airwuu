@@ -16,9 +16,5 @@ Here are some ideas to get you started:
 -->
 
 # hi there! 
-welcome to my github, this is where you can see what i'm up to!
-
-### 🔭 you'll find me working on..
-- personal projects
-- anything public is usually for competitions
+welcome to my github
 
